@@ -132,6 +132,12 @@
       "email": "tony@user.com",
       "password": "abc123",
       "id": 4
+    },
+    {
+      "name": "demo user",
+      "email": "demo@test.com",
+      "password": "abc123",
+      "id": 5
     }
   ],
   "cart": [
@@ -176,6 +182,14 @@
       "totalPrice": 6100,
       "userId": 1,
       "id": 3
+    },
+    {
+      "email": "demouser@test.com",
+      "address": "Sangola",
+      "contact": "98740",
+      "totalPrice": 650,
+      "userId": 5,
+      "id": 4
     }
   ]
 }
